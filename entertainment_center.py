@@ -30,5 +30,4 @@ guardians = media.Movie("Guardians of the Galaxy", "Band of misfits saves the ga
 movies = [rush, pacific_rim, love_actually, interstellar, elf, guardians]
 fresh_tomatoes.open_movies_page(movies)
 
-#print(avatar.storyline)
-#rush.show_trailer()
+
