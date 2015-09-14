@@ -1,8 +1,15 @@
-h2 {
-    color: #FF6600;
-}
 
 body {
-    background: #404040;
-    font-family: 'Raleway', sans-serif;
+    background: #404040; /* dark background */
+    font-family: 'Raleway', sans-serif; /* Google Fonts call */
 }
+
+h2 {
+    color: #FF6600; /* orange title header */
+}
+
+h3 {
+    font-size: 12px; /* adjust fonts size */
+    color: #CCFFFF /* light blue copy */
+}
+
